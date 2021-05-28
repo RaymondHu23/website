@@ -1,4 +1,3 @@
 ---
-title: "index_title"
+title: ""
 ---
-aight
